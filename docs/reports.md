@@ -10,7 +10,7 @@ keywords: [reports, fleet reports, trip report, fuel report, export, PDF, Excel,
 
 The Reports module provides detailed analytical reports for your fleet. Generate reports for any vehicle over any date range, view them directly in the app, and export to PDF, Excel, or CSV for sharing and record-keeping.
 
-<!-- ![Reports Overview](/img/screenshots/web/reports-overview.png) -->
+![Reports Overview](/img/screenshots/web/reports-overview.png)
 
 ## Accessing Reports
 

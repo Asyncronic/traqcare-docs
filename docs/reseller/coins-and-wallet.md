@@ -13,3 +13,9 @@ The coin system manages device subscription credits.
 - **View Balance** — See available coins by type
 - **Transfer Coins** — Send coins to sub-clients for device activations
 - **Transaction History** — View all credit/debit transactions
+
+## Wallet Overview
+![Wallet](/img/screenshots/web/wallet.png)
+
+## Transaction History
+![Transactions](/img/screenshots/web/wallet-transactions.png)

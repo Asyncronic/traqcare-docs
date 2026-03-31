@@ -21,3 +21,6 @@ keywords: [add device, register device, IMEI, QR scan, new device]
 :::tip
 On mobile, use the **QR Code Scanner** to quickly scan the device's IMEI barcode instead of typing it manually.
 :::
+
+## Add Device Form
+![Add Device Form](/img/screenshots/web/add-device-form.png)

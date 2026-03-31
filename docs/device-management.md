@@ -11,6 +11,7 @@ keywords: [device management, GPS device, IMEI, add device]
 Manage your GPS tracking devices — add new ones, configure sensors, send commands, and migrate between vehicles.
 
 - [**Adding a Device**](device-management/adding-device)
-- [**Device Settings**](device-management/device-settings) (Web)
+- [**Device Settings**](device-management/device-settings) — Sensors, bulk upload (Web)
+- [**Camera Settings**](device-management/camera-settings) — Video camera/DVR configuration (appears when camera sensor is selected)
 - [**GPRS Commands**](device-management/gprs-commands)
 - [**Device Migration**](device-management/device-migration) (Mobile)

@@ -24,3 +24,9 @@ Plan and manage scheduled journeys:
 - Create trip schedules with start/end locations
 - Assign to specific vehicles and drivers
 - Track trip progress against planned routes
+
+## Routes Management
+![Routes](/img/screenshots/web/routes.png)
+
+## Trips Management
+![Trips](/img/screenshots/web/trips.png)

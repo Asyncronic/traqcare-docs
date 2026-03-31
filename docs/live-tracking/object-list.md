@@ -10,7 +10,7 @@ keywords: [object list, vehicle list, fleet list, status filter, vehicle status,
 
 The Object List provides a scrollable, filterable list of every vehicle in your fleet. Each entry displays live status information at a glance, making it ideal for large fleets where scanning a map is impractical.
 
-<!-- ![Object List View](/img/screenshots/web/object-list-overview.png) -->
+![Object List View](/img/screenshots/web/object-list.png)
 
 ## Status Filters
 

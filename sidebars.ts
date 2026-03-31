@@ -72,6 +72,7 @@ const sidebars: SidebarsConfig = {
         'device-management',
         'device-management/adding-device',
         'device-management/device-settings',
+        'device-management/camera-settings',
         'device-management/gprs-commands',
         'device-management/device-migration',
       ],

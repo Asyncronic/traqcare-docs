@@ -10,7 +10,7 @@ keywords: [live tracking, GPS, real-time, map, vehicle tracking, fleet monitorin
 
 The Live Tracking module is the core of Traqcare, giving you a real-time view of every vehicle and asset in your fleet. Whether you are monitoring from your desktop or on the go with the mobile app, Live Tracking keeps you connected to your fleet at all times.
 
-<!-- ![Live Tracking Overview](/img/screenshots/web/live-tracking-overview.png) -->
+![Live Tracking Overview](/img/screenshots/web/map-view.png)
 
 ## What You Can Do
 

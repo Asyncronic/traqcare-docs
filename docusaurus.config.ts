@@ -45,7 +45,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          showLastUpdateTime: false,
+          showLastUpdateTime: true,
           showLastUpdateAuthor: false,
         },
         blog: {
@@ -124,7 +124,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://app.traqcare.com',
+          href: 'https://track.traqcare.com',
           label: 'Open App',
           position: 'right',
           className: 'navbar-app-link',
@@ -153,11 +153,13 @@ const config: Config = {
           ],
         },
         {
-          title: 'Company',
+          title: 'Platform',
           items: [
             {label: 'Traqcare Website', href: 'https://traqcare.com'},
-            {label: 'Open Web App', href: 'https://app.traqcare.com'},
-            {label: 'Contact Support', href: 'https://app.traqcare.com/ticket'},
+            {label: 'Open Web App', href: 'https://track.traqcare.com'},
+            {label: 'Android App', href: 'https://play.google.com/store/apps/details?id=com.traqcare.gps_tracking_app'},
+            {label: 'iOS App', href: 'https://apps.apple.com/cn/app/traqcare/id6449219819?l=en'},
+            {label: 'Contact Support', href: 'https://track.traqcare.com/ticket'},
           ],
         },
       ],

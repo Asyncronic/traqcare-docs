@@ -10,7 +10,7 @@ keywords: [map view, interactive map, vehicle markers, satellite, traffic, clust
 
 The Map View is the primary interface for monitoring your fleet in real time. Every tracked vehicle appears as a color-coded marker on an interactive map, updating its position automatically.
 
-<!-- ![Map View Overview](/img/screenshots/web/map-view-overview.png) -->
+![Map View Overview](/img/screenshots/web/map-view.png)
 
 ## Vehicle Markers
 

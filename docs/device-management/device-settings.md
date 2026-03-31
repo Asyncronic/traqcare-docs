@@ -14,3 +14,9 @@ Configure device-specific settings in **Settings > Devices**:
 - **Camera Setup** — Configure video streaming cameras
 - **Device Commands** — View available GPRS commands
 - **Bulk Upload** — Register multiple devices at once via CSV file
+
+## Devices Tab
+![Devices Settings](/img/screenshots/web/settings-devices.png)
+
+## Bulk Upload
+![Bulk Upload Form](/img/screenshots/web/bulk-upload-form.png)

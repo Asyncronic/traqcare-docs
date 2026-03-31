@@ -14,3 +14,9 @@ Manage driver profiles in **Settings > Drivers**:
 - Assign drivers to vehicles
 - Track which driver is assigned to which vehicle
 - Driver contact information is used for the "Call Driver" quick action
+
+## Drivers List
+![Drivers](/img/screenshots/web/settings-drivers.png)
+
+## Add Driver Form
+![Add Driver Form](/img/screenshots/web/add-driver-form.png)

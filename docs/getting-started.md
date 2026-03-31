@@ -10,19 +10,28 @@ keywords: [login, dashboard, navigation, getting started, user roles]
 
 Welcome to **Traqcare** — your complete GPS tracking and fleet management platform. This guide covers everything you need to know to use the web app and mobile app effectively.
 
+## Download & Access
+
+| Platform | Link |
+|----------|------|
+| **Web App** | [track.traqcare.com](https://track.traqcare.com) |
+| **Android** | [Google Play Store](https://play.google.com/store/apps/details?id=com.traqcare.gps_tracking_app) |
+| **iOS** | [Apple App Store](https://apps.apple.com/cn/app/traqcare/id6449219819?l=en) |
+
 ## Logging In
 
 ### Web App
 
-1. Open your browser and navigate to your Traqcare platform URL (e.g., `app.traqcare.com`)
+1. Open your browser and navigate to [track.traqcare.com](https://track.traqcare.com)
 2. Enter your **username** and **password**
 3. Click **Login**
 
-<!-- ![Web Login Screen](/img/screenshots/web/login.png) -->
+![Web Login Screen](/img/screenshots/web/login.png)
 
 ### Mobile App
 
-1. Open the Traqcare app on your iOS or Android device
+1. Download the Traqcare app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.traqcare.gps_tracking_app) or [Apple App Store](https://apps.apple.com/cn/app/traqcare/id6449219819?l=en)
+2. Open the app on your iOS or Android device
 2. Enter your **username** and **password**
 3. Optionally configure the **server URL** if using a custom deployment
 4. Tap **Login**
@@ -47,7 +56,7 @@ After logging in, you'll see the **Dashboard** — your central hub for fleet st
 | **Announcements** | System-wide announcements from your provider | Web |
 | **Quick Map View** | Mini map showing all vehicle locations | Mobile |
 
-<!-- ![Dashboard Overview](/img/screenshots/web/dashboard.png) -->
+![Dashboard Overview](/img/screenshots/web/dashboard.png)
 
 ## Navigation
 
@@ -89,3 +98,7 @@ Understanding the status colors used throughout the platform:
 | 🔴 **Red** | Stopped | Engine off, vehicle parked |
 | ⚪ **Grey** | Offline | No data received from device |
 | 🔵 **Blue** | Parked | In parking mode (long-duration stop) |
+
+## Login Logs
+View your login history at **Settings > Login Logs**:
+![Login Logs](/img/screenshots/web/login-logs.png)

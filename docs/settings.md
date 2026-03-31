@@ -39,3 +39,44 @@ Access via the **More** tab. Available options:
 | **Distance Unit** | Switch between Kilometers and Miles |
 | **Change Password** | Update your account password |
 | **Terms / Privacy** | View legal documents |
+
+## Screenshots
+
+### Settings Page - Devices Tab
+![Devices Settings](/img/screenshots/web/settings-devices.png)
+
+### Add Device Form
+![Add Device Form](/img/screenshots/web/add-device-form.png)
+
+### Bulk Upload Form
+![Bulk Upload Form](/img/screenshots/web/bulk-upload-form.png)
+
+### Device Migration Form
+![Device Migration Form](/img/screenshots/web/device-migration-form.png)
+
+### Profile Settings
+![Profile Settings](/img/screenshots/web/settings-account.png)
+
+### System Settings
+![System Settings](/img/screenshots/web/settings-app.png)
+
+### Sub-Users Management
+![Sub-Users](/img/screenshots/web/settings-users.png)
+
+### Add User Form
+![Add User Form](/img/screenshots/web/add-user-form.png)
+
+### Drivers Management
+![Drivers](/img/screenshots/web/settings-drivers.png)
+
+### Add Driver Form
+![Add Driver Form](/img/screenshots/web/add-driver-form.png)
+
+### Object Groups
+![Object Groups](/img/screenshots/web/settings-group.png)
+
+### Clients Management
+![Clients](/img/screenshots/web/settings-clients.png)
+
+### SIM Card Status
+![SIM Card Status](/img/screenshots/web/settings-sim.png)

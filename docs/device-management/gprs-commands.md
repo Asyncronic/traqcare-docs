@@ -29,3 +29,6 @@ Send commands to devices remotely.
 :::warning
 **Engine Immobilization** is safety-critical. Only use when the vehicle is safely parked. Never immobilize a moving vehicle.
 :::
+
+<!-- Screenshot: GPRS command dialog can be accessed from single vehicle view > Send Command -->
+

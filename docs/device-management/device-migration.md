@@ -16,3 +16,6 @@ Transfer a GPS device from one vehicle to another:
 4. Confirm the migration
 
 The device history remains with the original vehicle record.
+
+## Migration Form
+![Device Migration Form](/img/screenshots/web/device-migration-form.png)

@@ -13,3 +13,9 @@ Organize vehicles into logical groups in **Settings > Object Groups**:
 - Create groups (e.g., "Delivery Fleet", "Sales Team", "Heavy Vehicles")
 - Assign vehicles to groups
 - Filter by group across the platform
+
+## Groups List
+![Object Groups](/img/screenshots/web/settings-group.png)
+
+## Add Group Form
+![Add Group Form](/img/screenshots/web/add-group-form.png)

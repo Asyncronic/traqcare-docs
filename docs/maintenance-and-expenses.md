@@ -26,3 +26,15 @@ keywords: [maintenance, expenses, service schedule, vehicle costs, fuel expense]
 5. Save
 
 View expense history with filtering by vehicle, category, or date range.
+
+## Maintenance Schedules
+![Maintenance](/img/screenshots/web/maintenance.png)
+
+## Add Schedule Form
+![Add Schedule](/img/screenshots/web/maintenance-add-form.png)
+
+## Expense Tracking
+![Expenses](/img/screenshots/web/expenses.png)
+
+## Add Expense Form
+![Add Expense](/img/screenshots/web/expense-add-form.png)

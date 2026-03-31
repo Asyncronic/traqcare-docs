@@ -34,3 +34,9 @@ A dedicated analytics dashboard showing:
 - Visit frequency charts
 - Dwell time analysis (how long vehicles spend inside each zone)
 - Map visualization with geofence data overlay
+
+## Geofence Map View
+![Geofences](/img/screenshots/web/geofences.png)
+
+## Geofence Dashboard
+![Geofence Dashboard](/img/screenshots/web/geofence-dashboard.png)

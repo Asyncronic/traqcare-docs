@@ -19,3 +19,6 @@ keywords: [create alert, add alert, alert setup, configure alerts]
 :::tip
 You can create multiple alerts for the same vehicle with different thresholds — e.g., a warning at 100 kph and a critical alert at 120 kph.
 :::
+
+## Alert Creation Form
+![Create Alert Form](/img/screenshots/web/alert-create-form.png)

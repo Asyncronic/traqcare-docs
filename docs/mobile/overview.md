@@ -10,7 +10,12 @@ keywords: [mobile app, iOS, Android, GPS tracking app, fleet app]
 
 The Traqcare mobile app brings the full power of fleet tracking to your phone.
 
-**Platforms:** iOS & Android
+## Download
+
+| Platform | Link |
+|----------|------|
+| **Android** | [Google Play Store](https://play.google.com/store/apps/details?id=com.traqcare.gps_tracking_app) |
+| **iOS** | [Apple App Store](https://apps.apple.com/cn/app/traqcare/id6449219819?l=en) |
 
 ## Navigation — 4 Bottom Tabs
 

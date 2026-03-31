@@ -17,3 +17,6 @@ For vehicles equipped with cameras, Traqcare provides live and recorded video ac
 | **Device Images** | View snapshots captured by the device camera |
 | **Multi-Camera** | View multiple camera feeds simultaneously |
 | **Timeline** | Navigate to specific timestamps in recordings |
+
+## Video Playback
+![Video Playback](/img/screenshots/web/video-playback.png)

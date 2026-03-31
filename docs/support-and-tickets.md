@@ -22,3 +22,6 @@ Track your ticket status (Open, In Progress, Closed) and reply within the ticket
 ## Contact Us (Mobile)
 
 For quick support, use **More > Contact Us** to send a message directly to the support team.
+
+## Support Tickets
+![Tickets](/img/screenshots/web/tickets.png)

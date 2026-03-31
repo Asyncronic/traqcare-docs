@@ -19,3 +19,6 @@ Mark important locations on the map for quick reference.
 5. Save
 
 POI markers can be toggled on/off on the live tracking map for reference.
+
+## POI Map View
+![Points of Interest](/img/screenshots/web/pois.png)

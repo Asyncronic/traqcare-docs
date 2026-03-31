@@ -12,3 +12,6 @@ keywords: [subscriptions, activate device, renew subscription, expiry]
 - Activate or renew device subscriptions using coins
 - See expiry dates and remaining days
 - Bulk subscription management
+
+## Subscription Management
+![Subscriptions](/img/screenshots/web/subscription.png)
