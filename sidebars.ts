@@ -13,6 +13,7 @@ const sidebars: SidebarsConfig = {
         'live-tracking/object-list',
         'live-tracking/single-object',
         'live-tracking/share-location',
+        'live-tracking/search-nearby',
       ],
     },
     {
@@ -39,6 +40,7 @@ const sidebars: SidebarsConfig = {
         'reports/alert-report',
         'reports/speed-distance',
         'reports/geofence-report',
+        'reports/custom-report',
         'reports/additional-reports',
       ],
     },

@@ -52,6 +52,7 @@ Use Excel export when you need to perform additional calculations or create cust
 | [Alert Report](./reports/alert-report) | Historical log of triggered alerts | Alert event history |
 | [Speed & Distance](./reports/speed-distance) | Speed statistics and overspeed events | Speed analysis |
 | [Geofence Report](./reports/geofence-report) | Geofence entry/exit logs with dwell times | Zone activity |
+| [Custom Report](./reports/custom-report) | Build your own report by selecting specific data fields and saving templates | Tailored analytics |
 | [Additional Reports](./reports/additional-reports) | Offline, Alert Count, Time Wise, Health, Voltage, Battery (Web only) | Specialized reports |
 
 :::info

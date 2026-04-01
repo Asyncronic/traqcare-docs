@@ -1,19 +1,29 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+release:
+  label: Release
+  description: New version releases and feature updates
+  permalink: /release
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+feature:
+  label: Feature
+  description: New feature announcements
+  permalink: /feature
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+mobile:
+  label: Mobile App
+  description: iOS and Android app updates
+  permalink: /mobile
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+web:
+  label: Web App
+  description: Web platform updates
+  permalink: /web
+
+improvement:
+  label: Improvement
+  description: Performance and UX improvements
+  permalink: /improvement
+
+fix:
+  label: Bug Fix
+  description: Bug fixes and patches
+  permalink: /fix

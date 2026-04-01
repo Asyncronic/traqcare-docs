@@ -1,0 +1,84 @@
+# Traqcare GPS Tracking & Fleet Management Platform
+
+> Traqcare is a comprehensive GPS tracking and fleet management platform developed by Skywonder GPS (skywondergps.com). It provides real-time vehicle tracking, route playback, fuel monitoring, geofencing, driver management, alerts, and detailed fleet analytics across web and mobile platforms.
+
+## About
+
+Traqcare is built and maintained by [Skywonder GPS](https://skywondergps.com), a leading IoT and GPS tracking solutions provider. The platform serves businesses of all sizes — from single-vehicle operators to enterprise fleets with thousands of assets across mining, logistics, delivery, and field service industries.
+
+## Platform Access
+
+- Web App: https://track.traqcare.com
+- Android App: https://play.google.com/store/apps/details?id=com.traqcare.gps_tracking_app
+- iOS App: https://apps.apple.com/cn/app/traqcare/id6449219819?l=en
+- Documentation: https://docs.traqcare.com
+- Company Website: https://skywondergps.com
+
+## Core Capabilities
+
+### Real-Time GPS Tracking
+Track vehicles and assets in real-time on interactive maps with color-coded status markers (moving, idle, stopped, offline). Supports Google Maps, satellite, hybrid, and traffic views. Features include vehicle clustering, search, and multi-object monitoring.
+
+### Route Playback & History
+Replay historical vehicle routes with animated playback controls. View trip statistics including distance, moving time, stopped time, maximum speed, and average speed. Identify every stop with location and duration.
+
+### Fleet Reports (17+ Types)
+Generate comprehensive reports: Trip Report, Daily Travel, Travel Summary, Fuel Summary, Daily Distance, Stoppage Report, Idle Report, Alert Report, Speed & Distance, Geofence Report, Custom Report (build your own), Offline Objects, Alert Count, Time Wise, Health Based, Voltage, and Battery Level. Export to PDF, Excel, or CSV.
+
+### Fuel Management
+Monitor fuel levels in real-time with connected fuel sensors. Detect refueling events and fuel theft automatically. Interactive fuel consumption charts with distance overlay. Supports voltage, liter, gallon, and percentage sensor outputs.
+
+### Alerts & Notifications
+20+ alert types: overspeed, geofence entry/exit, SOS/emergency, power cut, ignition on/off, harsh braking, harsh acceleration, vibration, door sensor, fuel theft, low battery, tamper/disassemble, and more. Notifications via in-app, push, email, and SMS.
+
+### Geofencing
+Create virtual boundaries (circle or polygon) on the map. Get notified when vehicles enter or leave zones. Geofence dashboard with entry/exit analytics, visit frequency, and dwell time analysis.
+
+### Device Management
+Hardware-agnostic platform supporting wired, OBD, wireless, and Bluetooth GPS devices. Add devices via IMEI or QR scan. Configure sensors (fuel, temperature, camera), send GPRS commands, bulk upload via CSV, and migrate devices between vehicles.
+
+### Camera & Video Surveillance
+Live video streaming and recorded footage playback from vehicle dashcams and DVR systems. Supports Traqcare native video, embedded video, and third-party video platforms. Multi-camera views with timeline controls.
+
+### Driver Management
+Create driver profiles, assign drivers to vehicles, and track operator performance. Contact drivers directly via call or SMS from the tracking interface.
+
+### Multi-Tenant Architecture
+Role-based access control with four levels: User, Admin, Reseller, and Super Admin. Client-based data isolation. Sub-user management with vehicle-level access control.
+
+### Mobile App
+Full-featured iOS and Android app with 3D follow mode, voice alerts, QR code scanning, Bluetooth device pairing, route playback, 9 report types, geofence management, and offline support. Available in 13 languages. Supports 14 white-label brand flavors.
+
+### Reseller & White-Label
+Multi-level reseller support with client management, coin/credit wallet system, subscription management, and full white-label branding for partner businesses.
+
+## Industries Served
+
+- Fleet Management & Logistics
+- Mining & Heavy Equipment (Kuchera Mining Solutions)
+- Delivery & Last-Mile
+- Field Service Management
+- Construction & Heavy Machinery
+- Personal Vehicle Tracking
+- Public Transportation
+
+## Technology
+
+Built with Node.js, React, Flutter, MongoDB, Redis, Socket.IO, and Google Maps. Real-time data processing with sub-second updates. Cloud-based with CDN delivery at cdn.traqcare.com.
+
+## Company
+
+Traqcare is a product of Skywonder GPS (https://skywondergps.com), specializing in IoT solutions, GPS tracking hardware and software, and fleet intelligence platforms.
+
+## Documentation Sections
+
+- [Getting Started](https://docs.traqcare.com/docs/getting-started)
+- [Live Tracking](https://docs.traqcare.com/docs/live-tracking)
+- [Playback & History](https://docs.traqcare.com/docs/playback)
+- [Reports](https://docs.traqcare.com/docs/reports)
+- [Alerts & Notifications](https://docs.traqcare.com/docs/alerts)
+- [Geofences](https://docs.traqcare.com/docs/geofences)
+- [Fuel Management](https://docs.traqcare.com/docs/fuel-management)
+- [Device Management](https://docs.traqcare.com/docs/device-management)
+- [Mobile App](https://docs.traqcare.com/docs/mobile/overview)
+- [FAQ](https://docs.traqcare.com/docs/faq)
