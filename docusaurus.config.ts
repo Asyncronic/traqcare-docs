@@ -79,6 +79,14 @@ const config: Config = {
   ],
 
   headTags: [
+    // ── Google Search Console Verification ──
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'google-site-verification',
+        content: 'RZHlutp-d1VgjxB1VdH3LGx9au7BsGgUmDXQnhpPqTU',
+      },
+    },
     // ── SEO Meta Tags ──
     {
       tagName: 'meta',
