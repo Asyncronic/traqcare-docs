@@ -109,6 +109,7 @@ const sidebars: SidebarsConfig = {
     'mobile/overview',
     'mobile/dashboard',
     'mobile/tracking',
+    'mobile/video-and-camera',
     'mobile/playback',
     'mobile/reports',
     'mobile/alerts',

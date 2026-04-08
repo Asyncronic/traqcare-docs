@@ -18,4 +18,11 @@ keywords: [3D follow, QR scanner, bluetooth, street view, voice alerts, offline 
 | **Quick Date Chips** | One-tap date selection in playback |
 | **Pull to Refresh** | Swipe down on any list to refresh data |
 | **Landscape Fuel Chart** | Fuel chart auto-rotates to landscape for better viewing |
+| **Voice Monitor** | Listen to live audio from in-vehicle microphones |
+| **Two-Way Intercom** | Full duplex audio communication with the vehicle |
+| **Video History Upload** | Upload device recordings to cloud storage |
+| **Video History Download** | Download device recordings as MP4 — runs in background |
+| **AI Evidence Playback** | Play ADAS/DSM event videos in-app with landscape toggle |
+| **Device Gallery Viewer** | Tap images in object gallery to view full-screen |
+| **Auto-Stop on Background** | Video/audio streams stop when app goes to background |
 | **Offline Support** | Basic vehicle list and last-known data available when offline |

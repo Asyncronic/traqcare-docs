@@ -23,3 +23,9 @@ Tap any vehicle to enter focused tracking mode:
 - **Live Info** — Speed, heading, altitude, address, last update
 - **Sensor Data** — Fuel, temperature, battery (if configured)
 - **Action Panel** — Call, SMS, Share, Playback, Reports, Street View, GPRS Commands
+- **Live Video** — Multi-channel video streaming from vehicle cameras
+- **Voice Monitor** — Listen to live audio from in-vehicle microphones
+- **Two-Way Intercom** — Full duplex audio communication with the vehicle
+- **Video History** — Browse, upload, and download recorded footage from device SD card
+- **AI Alerts** — View ADAS/DSM events with in-app evidence video playback
+- **Device Gallery** — View captured images from the device camera
