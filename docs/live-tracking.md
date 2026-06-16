@@ -12,6 +12,12 @@ The Live Tracking module is the core of Traqcare, giving you a real-time view of
 
 ![Live Tracking Overview](/img/screenshots/web/map-view.png)
 
+:::tip Video Tutorial — Live Map & Video
+<video controls width="100%">
+  <source src="/videos/how-to-check-the-live-map-and-live-video.mp4" type="video/mp4" />
+</video>
+:::
+
 ## What You Can Do
 
 - **View all vehicles on a map** with color-coded status markers

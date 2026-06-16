@@ -10,6 +10,8 @@ keywords: [mobile settings, language, distance unit, notifications, preferences]
 
 Access from the **More** tab.
 
+![Mobile More Menu](/img/screenshots/mobile/more.jpg)
+
 | Setting | Description |
 |---------|-------------|
 | **Notifications** | Toggle push notifications on/off |

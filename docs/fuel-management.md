@@ -10,5 +10,7 @@ keywords: [fuel management, fuel monitoring, fuel theft, fuel sensor]
 
 Monitor fuel levels in real-time, detect theft events, and track consumption patterns.
 
+![Fuel Calibration](/img/screenshots/web/fuel-calibration-guide.png)
+
 - [**Fuel Chart**](fuel-management/fuel-chart) — How to read the interactive fuel chart
 - [**Fuel Calibration**](fuel-management/fuel-calibration) — Configure fuel sensors via Device Settings > Modify > Fuel Calibration tab

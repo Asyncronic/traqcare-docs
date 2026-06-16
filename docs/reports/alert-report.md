@@ -10,7 +10,7 @@ keywords: [alert report, alert history, alert log, safety compliance, incident i
 
 The Alert Report provides a comprehensive historical log of every alert triggered across your fleet. Each entry includes the alert type, the time it occurred, the vehicle involved, and the location -- giving you a complete audit trail for safety and compliance.
 
-<!-- ![Alert Report](/img/screenshots/web/alert-report.png) -->
+![Alert Report](/img/screenshots/web/alert-report.png)
 
 ## What the Report Shows
 

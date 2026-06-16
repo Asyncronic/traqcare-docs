@@ -24,7 +24,7 @@ Custom Reports are only available in the **Traqcare web application**. They are 
 6. **Drag and reorder** the selected fields using the drag handle (≡) to set your preferred column order.
 7. Click **Save** to store the template.
 
-<!-- ![Custom Report Builder](/img/screenshots/web/custom-report-form.png) -->
+![Custom Report](/img/screenshots/web/custom-report.png)
 
 ## Available Data Fields
 

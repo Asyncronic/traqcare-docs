@@ -10,7 +10,7 @@ keywords: [daily distance, mileage, distance per day, mileage tracking, billing,
 
 The Daily Distance Report provides a straightforward day-by-day breakdown of how far a vehicle traveled. It is the simplest distance report available, focusing purely on distance without additional trip or time details.
 
-<!-- ![Daily Distance Report](/img/screenshots/web/daily-distance-report.png) -->
+![Daily Distance Report](/img/screenshots/web/daily-distance-report.png)
 
 ## What the Report Shows
 

@@ -10,7 +10,7 @@ keywords: [playback, history, route playback, trip history, trip statistics, par
 
 The Playback module lets you review where your vehicles have been. Replay historical routes on the map with full animation controls, and analyze trip statistics including distance, speed, stops, and driving time.
 
-<!-- ![Playback Overview](/img/screenshots/web/playback-overview.png) -->
+![Playback Overview](/img/screenshots/web/playback-guide.png)
 
 ## What You Can Do
 

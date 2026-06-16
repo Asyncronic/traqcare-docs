@@ -8,6 +8,8 @@ keywords: [support, tickets, help, contact support, bug report]
 
 # Support & Tickets
 
+![Raise New Ticket](/img/screenshots/web/raise-new-ticket.png)
+
 ## Creating a Ticket
 
 1. Navigate to **Support Tickets** (Web: sidebar, Mobile: More > Support)
@@ -18,6 +20,8 @@ keywords: [support, tickets, help, contact support, bug report]
 6. Submit
 
 Track your ticket status (Open, In Progress, Closed) and reply within the ticket thread.
+
+![View Tickets](/img/screenshots/web/view-tickets.png)
 
 ## Contact Us (Mobile)
 

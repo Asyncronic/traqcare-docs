@@ -10,7 +10,7 @@ keywords: [stoppage report, stop log, stop duration, unauthorized stops, deliver
 
 The Stoppage Report lists every location where a vehicle stopped during the selected period, along with the stop duration and address. It is essential for understanding how time is spent between trips and verifying that stops are authorized and productive.
 
-<!-- ![Stoppage Report](/img/screenshots/web/stoppage-report.png) -->
+![Stoppage Report](/img/screenshots/web/stoppage-report.png)
 
 ## What the Report Shows
 

@@ -10,5 +10,7 @@ keywords: [alert history, past alerts, alert log]
 
 View all past triggered alerts. Filter by date range, alert type, or vehicle. Each alert entry shows the time, vehicle, location, and alert details.
 
+![Alert Report](/img/screenshots/web/alert-report.png)
+
 **Web:** Access from the Alerts section in the sidebar.
 **Mobile:** Access from More > Alerts.

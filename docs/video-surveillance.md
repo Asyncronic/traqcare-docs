@@ -10,6 +10,8 @@ keywords: [video, camera, live stream, video playback, DVR, dashcam, monitor, in
 
 For vehicles equipped with cameras, Traqcare provides live and recorded video access, audio monitoring, and two-way communication.
 
+![Live Video Streaming](/img/screenshots/web/live-video-playing.png)
+
 | Feature | Description | Web | Mobile |
 |---------|-------------|:---:|:------:|
 | **Live Video** | Stream real-time video from vehicle cameras | Yes | Yes |
@@ -24,6 +26,7 @@ For vehicles equipped with cameras, Traqcare provides live and recorded video ac
 | **Auto-Stop on Exit** | Stops device streaming when you leave the page | Yes | Yes |
 
 ## Video Playback
+
 ![Video Playback](/img/screenshots/web/video-playback.png)
 
 ## Video History Files

@@ -8,6 +8,8 @@ keywords: [mobile alerts, push notifications, alert history, voice alerts]
 
 # Mobile Alerts
 
+![Mobile Alerts](/img/screenshots/mobile/alerts.jpg)
+
 - **View alert history** from More > Alerts
 - **Create alert subscriptions** for specific vehicles
 - **Push notifications** — real-time alerts to your phone

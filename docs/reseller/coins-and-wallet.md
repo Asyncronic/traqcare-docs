@@ -23,7 +23,13 @@ Traqcare uses a **coin-based credit system** to manage device subscriptions. Eac
 
 Navigate to **Wallet** from the left sidebar to see your coin balances.
 
-<!-- ![Wallet Overview](/img/screenshots/web/wallet.png) -->
+![Wallet Overview](/img/screenshots/web/wallet-guide.png)
+
+:::tip Video Tutorial — Transfer Coins
+<video controls width="100%">
+  <source src="/videos/how-to-transfer-coins.mp4" type="video/mp4" />
+</video>
+:::
 
 The wallet table shows one row per coin type:
 
@@ -74,7 +80,7 @@ The Transaction History provides a full audit trail of every coin movement on yo
 
 Navigate to **Wallet → Transaction History** (or directly from the Wallet page button).
 
-<!-- ![Transaction History](/img/screenshots/web/wallet-transactions.png) -->
+![Transaction History](/img/screenshots/web/transactions.png)
 
 Each transaction shows:
 

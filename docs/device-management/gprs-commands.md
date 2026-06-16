@@ -10,12 +10,18 @@ keywords: [GPRS commands, remote commands, immobilize, device control]
 
 Send commands to devices remotely.
 
+![Send GPRS Command](/img/screenshots/web/send-gprs-command.png)
+
 ## How to Send
 
 1. Select a vehicle
 2. Open **Send GPRS Command** from the vehicle action menu
 3. Choose a command type or enter a custom command
 4. Send — the response appears in command history
+
+## Command History
+
+![Command History](/img/screenshots/web/send-command-history.png)
 
 ## Common Commands
 

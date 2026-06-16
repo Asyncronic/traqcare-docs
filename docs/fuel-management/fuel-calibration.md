@@ -29,7 +29,7 @@ Fuel calibration is configured **per device** through the device's sensor settin
    - Multiple calibrations may correct deviations
 6. Click **Submit** to save
 
-<!-- ![Fuel Calibration Tab](/img/screenshots/web/fuel-calibration-tab.png) -->
+![Fuel Calibration](/img/screenshots/web/fuel-calibration-guide.png)
 
 ## Other Device Sensor Tabs
 

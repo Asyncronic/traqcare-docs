@@ -10,7 +10,7 @@ keywords: [travel summary, fleet comparison, total distance, monthly report, fle
 
 The Travel Summary Report aggregates travel metrics across an entire period into a single summary. It is ideal for comparing vehicle performance, generating monthly overviews, or preparing billing based on distance or usage.
 
-<!-- ![Travel Summary Report](/img/screenshots/web/travel-summary-report.png) -->
+![Travel Summary Report](/img/screenshots/web/travel-summary-report.png)
 
 ## What the Report Shows
 

@@ -10,6 +10,8 @@ keywords: [user management, sub-users, drivers, object groups, admin]
 
 Manage who has access to your fleet and how vehicles are organized.
 
+![User Management](/img/screenshots/web/user-management.png)
+
 - [**Sub-Users**](user-management/sub-users) — Create accounts with controlled access
 - [**Drivers**](user-management/drivers) — Manage driver profiles
 - [**Object Groups**](user-management/object-groups) — Organize vehicles into groups

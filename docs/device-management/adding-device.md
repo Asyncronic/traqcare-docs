@@ -8,6 +8,12 @@ keywords: [add device, register device, IMEI, QR scan, new device]
 
 # Adding a Device
 
+:::tip Video Tutorial
+<video controls width="100%">
+  <source src="/videos/how-to-add-object.mp4" type="video/mp4" />
+</video>
+:::
+
 ## Steps
 
 1. **Web:** Go to Settings > Devices > Add Device | **Mobile:** Go to More > Device Form

@@ -8,6 +8,8 @@ keywords: [3D follow, QR scanner, bluetooth, street view, voice alerts, offline 
 
 # Mobile-Specific Features
 
+![Send Command](/img/screenshots/mobile/send-command.jpg) ![Share Location](/img/screenshots/mobile/share-location.jpg) ![Device Details](/img/screenshots/mobile/device-details.jpg)
+
 | Feature | Description |
 |---------|-------------|
 | **3D Follow Mode** | Camera follows the vehicle with bearing rotation for a realistic driving view |

@@ -10,6 +10,8 @@ keywords: [mobile playback, route replay, mobile history, trip playback]
 
 Replay vehicle routes with animated playback.
 
+![Mobile Playback](/img/screenshots/mobile/playback.jpg)
+
 - Interactive route map with start/end markers
 - Play/pause controls with speed slider
 - **Quick date buttons** — Today, Yesterday, and date chips at the bottom for one-tap selection

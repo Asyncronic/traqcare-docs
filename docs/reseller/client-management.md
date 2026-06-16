@@ -8,6 +8,12 @@ keywords: [client management, add client, sub-client, reseller clients]
 
 # Client Management
 
+:::tip Video Tutorial
+<video controls width="100%">
+  <source src="/videos/how-to-add-client.mp4" type="video/mp4" />
+</video>
+:::
+
 - **Add Clients** — Create new client accounts with their own login
 - **Sub-Client Hierarchy** — Create parent-child client relationships
 - **Client Details** — Manage contact info, timezone, settings per client

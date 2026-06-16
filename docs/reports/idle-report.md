@@ -10,7 +10,7 @@ keywords: [idle report, engine idle, idling, fuel waste, driver behavior, engine
 
 The Idle Report captures every instance where a vehicle's engine was running while the vehicle remained stationary. Excessive idling wastes fuel, increases engine wear, and contributes to unnecessary emissions.
 
-<!-- ![Idle Report](/img/screenshots/web/idle-report.png) -->
+![Idle Report](/img/screenshots/web/idle-report.png)
 
 ## What the Report Shows
 

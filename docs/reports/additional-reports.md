@@ -14,7 +14,7 @@ The following reports are available exclusively in the Traqcare web application.
 These reports are only accessible from the web app. They are not currently available in the mobile application.
 :::
 
-<!-- ![Additional Reports Menu](/img/screenshots/web/additional-reports-menu.png) -->
+![Alert Count Report](/img/screenshots/web/alert-count-report.png)
 
 ## Available Reports
 

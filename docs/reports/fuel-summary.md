@@ -10,7 +10,7 @@ keywords: [fuel report, fuel consumption, refueling, fuel theft, fuel drain, fue
 
 The Fuel Summary Report tracks daily fuel consumption, identifies refueling events and potential fuel theft or drain incidents, and correlates fuel usage with distance traveled. An interactive fuel chart provides a visual representation of fuel levels over time.
 
-<!-- ![Fuel Summary Report](/img/screenshots/web/fuel-summary-report.png) -->
+![Fuel Summary Report](/img/screenshots/web/fuel-summary-report.png)
 
 ## What the Report Shows
 

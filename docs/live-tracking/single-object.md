@@ -10,7 +10,7 @@ keywords: [single object, vehicle tracking, follow mode, sensor data, driver con
 
 Single Object Tracking provides a focused, detailed view of one vehicle. The map centers on the selected vehicle and follows it as it moves, while a live info panel displays speed, heading, sensor readings, and more.
 
-<!-- ![Single Object Tracking](/img/screenshots/web/single-object-tracking.png) -->
+![Vehicle Dashboard](/img/screenshots/web/vehicle-dashboard.png)
 
 ## Entering Single Object View
 

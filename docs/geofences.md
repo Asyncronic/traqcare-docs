@@ -10,6 +10,12 @@ keywords: [geofence, virtual boundary, zone, entry exit alert, geo-fencing]
 
 Geofences are virtual boundaries on the map. Get notified when vehicles enter or leave these zones.
 
+:::tip Video Tutorial
+<video controls width="100%">
+  <source src="/videos/how-to-add-geofence.mp4" type="video/mp4" />
+</video>
+:::
+
 ## Creating a Geofence
 
 1. Navigate to **Geofences** (Web: GeoJsons > Geofence, Mobile: More > Geofence)

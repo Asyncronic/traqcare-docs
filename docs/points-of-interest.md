@@ -10,6 +10,12 @@ keywords: [POI, points of interest, markers, locations, landmarks]
 
 Mark important locations on the map for quick reference.
 
+:::tip Video Tutorial
+<video controls width="100%">
+  <source src="/videos/how-to-add-a-poi.mp4" type="video/mp4" />
+</video>
+:::
+
 ## Creating a POI
 
 1. Navigate to **POI** (Web: GeoJsons > POI, Mobile: More > POI)

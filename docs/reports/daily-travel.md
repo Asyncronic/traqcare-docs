@@ -10,7 +10,7 @@ keywords: [daily travel, daily summary, first departure, last arrival, daily dis
 
 The Daily Travel Report provides a day-by-day summary of a vehicle's activity. Instead of listing every individual trip, it consolidates each day into a single row showing departure time, arrival time, total distance, and a breakdown of moving versus stopped time.
 
-<!-- ![Daily Travel Report](/img/screenshots/web/daily-travel-report.png) -->
+![Daily Travel Report](/img/screenshots/web/daily-report.png)
 
 ## What the Report Shows
 

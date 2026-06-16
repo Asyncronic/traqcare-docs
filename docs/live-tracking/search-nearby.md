@@ -50,7 +50,7 @@ After selecting a reference point, a map opens showing:
 
 You can adjust the radius to expand or narrow the search area.
 
-<!-- ![Nearby Results Map](/img/screenshots/web/search-nearby-results.png) -->
+![Search Nearby Results](/img/screenshots/web/search-nearby-results.png)
 
 ## Use Cases
 

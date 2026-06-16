@@ -8,9 +8,15 @@ keywords: [subscriptions, activate device, renew subscription, multi subscriptio
 
 # Subscriptions
 
+:::tip Video Tutorial — Activate & Renew
+<video controls width="100%">
+  <source src="/videos/how-to-active-and-renew-object.mp4" type="video/mp4" />
+</video>
+:::
+
 The Subscriptions page shows every vehicle/device in your account with its current subscription status — active, expired, or expiring soon. From here you can activate a single device, bulk-activate multiple devices at once, and transfer coins to sub-clients.
 
-<!-- ![Subscriptions Page](/img/screenshots/web/subscription.png) -->
+![Subscriptions Page](/img/screenshots/web/subscription-guide.png)
 
 ## Subscription Status Overview
 

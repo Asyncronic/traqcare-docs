@@ -10,7 +10,7 @@ keywords: [share location, shareable link, live link, tracking link, temporary a
 
 Traqcare lets you generate a temporary, shareable link that displays a vehicle's live location on a map. The recipient does not need a Traqcare account -- they simply open the link in any web browser to see the vehicle's real-time position.
 
-<!-- ![Share Location Dialog](/img/screenshots/web/share-location-dialog.png) -->
+![Share Location](/img/screenshots/web/share-live-location.png)
 
 ## How to Share
 

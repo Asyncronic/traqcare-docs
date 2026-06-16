@@ -10,7 +10,7 @@ keywords: [trip report, trip log, journey report, start end, distance, duration,
 
 The Trip Report provides a detailed log of every individual trip made by a vehicle. Each trip is listed with its start and end time, origin and destination addresses, distance traveled, duration, and speed metrics.
 
-<!-- ![Trip Report](/img/screenshots/web/trip-report.png) -->
+![Trip Report](/img/screenshots/web/trip-report.png)
 
 ## What the Report Shows
 

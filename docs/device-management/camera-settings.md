@@ -18,7 +18,7 @@ Camera Settings allow you to configure video streaming for vehicles equipped wit
 4. Switch to the **Camera Settings** tab
 5. Configure the camera settings as described below
 
-<!-- ![Camera Settings Tab](/img/screenshots/web/camera-settings-tab.png) -->
+![Camera Settings](/img/screenshots/web/camera-setting.png)
 
 ## Video Platform Options
 

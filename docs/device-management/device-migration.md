@@ -8,6 +8,12 @@ keywords: [device migration, transfer device, move device, reassign]
 
 # Device Migration (Mobile)
 
+:::tip Video Tutorial
+<video controls width="100%">
+  <source src="/videos/how-to-migrate-object.mp4" type="video/mp4" />
+</video>
+:::
+
 Transfer a GPS device from one vehicle to another:
 
 1. Go to **Device Migration**

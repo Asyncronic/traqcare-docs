@@ -10,6 +10,8 @@ keywords: [notification settings, push notifications, voice alerts, alert sounds
 
 Configure how you receive alert notifications.
 
+![User Alerts Setting](/img/screenshots/web/user-alerts-setting.png)
+
 ## Mobile Settings
 
 | Setting | Description |

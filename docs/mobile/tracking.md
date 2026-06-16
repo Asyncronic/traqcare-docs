@@ -10,14 +10,22 @@ keywords: [mobile tracking, map tracking, 3D follow, vehicle actions]
 
 ## Map View
 
+![Mobile Map View](/img/screenshots/mobile/map.jpg)
+
 - Google Maps with custom status markers for each vehicle
 - Switch between Normal, Satellite, Hybrid, and Traffic views
 - Search and filter vehicles on the map
 - Tap markers for quick actions
 
+## List View
+
+![Mobile List View](/img/screenshots/mobile/list-view.jpg)
+
 ## Single Object View
 
 Tap any vehicle to enter focused tracking mode:
+
+![Device Dashboard](/img/screenshots/mobile/device-dashboard.jpg)
 
 - **3D Follow Mode** — Camera follows the vehicle with bearing rotation
 - **Live Info** — Speed, heading, altitude, address, last update

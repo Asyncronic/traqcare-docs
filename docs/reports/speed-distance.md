@@ -10,7 +10,7 @@ keywords: [speed report, distance report, overspeed, speed compliance, driver sa
 
 The Speed & Distance Report combines speed analysis with distance data to provide a complete picture of driving behavior. It includes speed statistics, a speed distribution chart, overspeed event logs, and distance metrics.
 
-<!-- ![Speed Distance Report](/img/screenshots/web/speed-distance-report.png) -->
+![Speed Distance Report](/img/screenshots/web/speed-vs-distance-report.png)
 
 ## What the Report Shows
 
@@ -35,7 +35,7 @@ A visual chart breaks down driving time by speed ranges:
 - **80-100 km/h** -- Highways
 - **100+ km/h** -- High speed / potential overspeed
 
-<!-- ![Speed Distribution Chart](/img/screenshots/web/speed-distribution-chart.png) -->
+![Speed Distribution Chart](/img/screenshots/web/speed-distribution-chart.png)
 
 :::tip
 A healthy speed distribution should align with the types of roads the vehicle typically uses. A delivery van showing significant time above 100 km/h in urban areas warrants investigation.
