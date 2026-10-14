@@ -313,6 +313,12 @@ const config: Config = {
           position: 'left',
           label: 'Mobile App',
         },
+        {
+          type: 'doc',
+          docId: 'faq',
+          position: 'left',
+          label: 'FAQ',
+        },
         {to: '/blog', label: 'Updates', position: 'left'},
         {
           type: 'search',

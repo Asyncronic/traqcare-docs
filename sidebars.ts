@@ -103,7 +103,7 @@ const sidebars: SidebarsConfig = {
     },
     'settings',
     'support-and-tickets',
-    'faq',
+    {type: 'link', label: 'FAQ', href: '/docs/faq'},
   ],
   mobileSidebar: [
     'mobile/overview',
@@ -116,6 +116,7 @@ const sidebars: SidebarsConfig = {
     'mobile/geofences-and-poi',
     'mobile/settings',
     'mobile/unique-features',
+    {type: 'link', label: 'FAQ', href: '/docs/faq'},
   ],
 };
 

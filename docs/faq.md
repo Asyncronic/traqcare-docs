@@ -1,12 +1,13 @@
 ---
 id: faq
 title: Frequently Asked Questions
-description: Common questions about GPS tracking, accuracy, offline devices, and more.
-sidebar_position: 17
-keywords: [FAQ, frequently asked questions, troubleshooting, help, GPS accuracy]
+description: Common questions about the Traqcare web platform and mobile app — GPS accuracy, offline devices, odometer, and more.
+keywords: [FAQ, frequently asked questions, troubleshooting, help, GPS accuracy, odometer, mobile app]
 ---
 
 # Frequently Asked Questions
+
+Answers for both the web platform and the mobile app. Where the steps differ, each answer shows **Web** and **Mobile** separately.
 
 ### Why is my vehicle showing "Offline"?
 
