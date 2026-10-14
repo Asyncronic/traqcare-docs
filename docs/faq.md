@@ -40,6 +40,35 @@ This depends on your device configuration. Most devices send updates every **10-
 - **Web:** Settings > System > Distance Unit
 - **Mobile:** More > Distance Unit > select km or miles
 
+### How do I change the odometer (mileage)?
+
+You can set the odometer to match the vehicle's dashboard, or reset it to 0, from the web platform or the mobile app.
+
+**Web:**
+1. Open **Live Tracking** and click the vehicle in the list.
+2. In the panel at the bottom, open the **Statistics** tab.
+3. Click the edit icon next to **Odometer**.
+4. Type the new value in **km** and click **OK**, then **Submit** to confirm.
+
+![Change the odometer on the web](/img/screenshots/web/odometer-edit.png)
+
+![Enter the new odometer value](/img/screenshots/web/odometer-edit-dialog.png)
+
+**Mobile:**
+1. Go to the **List** tab and tap the vehicle.
+2. Tap **Live Map**.
+3. Tap **Odometer** at the bottom left (next to the pencil icon).
+4. Type the new value in **km** and tap **Update**.
+
+![Change the odometer in the mobile app](/img/screenshots/mobile/odometer-edit-steps.png)
+
+**Good to know:**
+- The odometer is changed one vehicle at a time. To update several vehicles, repeat the steps for each one.
+- Always enter the value in km, even if your account shows distances in miles.
+- The vehicle must have sent data to the platform at least once before its odometer can be changed.
+- On the web, the edit icon is shown to admin and reseller accounts. If you don't see it, log in with your main account.
+- After you change it, the odometer keeps counting up from the new value. Distance reports and past trip history are not changed.
+
 ### What does the fuel chart show?
 
 The blue line shows fuel level over time, and the dashed line shows cumulative distance. Green markers indicate refueling events, and red markers indicate suspected fuel theft. See the [Fuel Chart Guide](fuel-management/fuel-chart) for details.
