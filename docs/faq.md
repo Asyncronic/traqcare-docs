@@ -70,6 +70,30 @@ You can set the odometer to match the vehicle's dashboard, or reset it to 0, fro
 - On the web, the edit icon is shown to admin and reseller accounts. If you don't see it, log in with your main account.
 - After you change it, the odometer keeps counting up from the new value. Distance reports and past trip history are not changed.
 
+### What does the Parking switch do?
+
+The **Parking** switch turns on **Parking Mode**, an anti-theft alert for when the vehicle is parked. While Parking Mode is on, you get a push notification in the mobile app when:
+
+- **The vehicle starts moving** ("Parking Alert : Moving")
+- **The ignition (ACC) turns on or off**, if the vehicle has an Ignition sensor set up
+- **External power is connected or disconnected**, if the vehicle has a Power sensor set up. This can warn you if someone cuts the tracker's power.
+- **A door opens or closes**, if the vehicle has a Door sensor set up
+
+These alerts also appear in the alert list on the platform.
+
+**Web:** open **Monitor** (Object Live Status) and use the switch in the **Parking** column for the vehicle.
+
+![Parking switch on the web](/img/screenshots/web/parking-mode.png)
+
+**Mobile:** go to the **List** tab, tap the vehicle, tap **Parking**, and confirm.
+
+![Parking Mode in the mobile app](/img/screenshots/mobile/parking-mode-steps.png)
+
+**Good to know:**
+- Turn it on when you park, and turn it off before you drive. Parking Mode doesn't switch off by itself, so if you leave it on you'll get an alert every time the vehicle starts moving.
+- In the mobile app, Parking Mode can only be turned on while the vehicle is stopped.
+- Parking Mode only sends alerts. It doesn't stop or immobilize the vehicle, and it doesn't change tracking or reports.
+
 ### What does the fuel chart show?
 
 The blue line shows fuel level over time, and the dashed line shows cumulative distance. Green markers indicate refueling events, and red markers indicate suspected fuel theft. See the [Fuel Chart Guide](fuel-management/fuel-chart) for details.
