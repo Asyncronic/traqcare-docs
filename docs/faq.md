@@ -94,7 +94,7 @@ These alerts also appear in the alert list on the platform.
 - In the mobile app, Parking Mode can only be turned on while the vehicle is stopped.
 - Parking Mode only sends alerts. It doesn't stop or immobilize the vehicle, and it doesn't change tracking or reports.
 
-### How do I immobilize a vehicle (stop the engine remotely)?
+### Where can I find the option to immobilize a vehicle?
 
 **Immobilize** cuts the vehicle's engine remotely, for example after a theft. **Mobilize** (called **Open** in the mobile app) restores it.
 
