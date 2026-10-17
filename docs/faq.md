@@ -139,6 +139,16 @@ Before you can use it:
 - You can check the current state in **Monitor**, in the **Immobilized** column.
 - **cutoff** is the right parameter for most trackers. If the Immobilized state always shows the opposite of the real state, change **Reading Type** to **Reverse**. For other tracker models, or if you're not sure, contact support.
 
+### I'm not able to see the Immobilize option. Why?
+
+Check these, in order:
+
+1. **The Immobilize sensor isn't set up for the vehicle.** This is the most common reason. Without it, **Immobilize** is greyed out in the web menu and doesn't appear in the mobile app at all. Set it up in **Settings > Devices > Modify > Device Sensors**: turn on **IMMOBILIZE**, set Parameter to **cutoff**, and click **Submit**. See [Where can I find the option to immobilize a vehicle?](#where-can-i-find-the-option-to-immobilize-a-vehicle) for the steps with screenshots.
+2. **You can't see Settings > Devices.** Sensors are set up from your main (admin) account. If you log in with a sub-user account, or your devices are managed by your provider, ask them to set up the sensor for you.
+3. **The mobile app hasn't refreshed yet.** After the sensor is set up on the web, pull down on the **List** tab to refresh, or close and reopen the app.
+4. **The vehicle's subscription has expired.** In the mobile app, tapping an expired vehicle shows "Device Expired – Renew this device to continue using it." instead of the vehicle menu. Renew the vehicle to use Immobilize again.
+5. **The tracker doesn't support engine cut-off, or no relay is installed.** The option only works on trackers that support it, with a relay wired to the vehicle. Ask your installer or contact support.
+
 ### What does the fuel chart show?
 
 The blue line shows fuel level over time, and the dashed line shows cumulative distance. Green markers indicate refueling events, and red markers indicate suspected fuel theft. See the [Fuel Chart Guide](fuel-management/fuel-chart) for details.
