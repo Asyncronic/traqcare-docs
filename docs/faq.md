@@ -94,6 +94,51 @@ These alerts also appear in the alert list on the platform.
 - In the mobile app, Parking Mode can only be turned on while the vehicle is stopped.
 - Parking Mode only sends alerts. It doesn't stop or immobilize the vehicle, and it doesn't change tracking or reports.
 
+### How do I immobilize a vehicle (stop the engine remotely)?
+
+**Immobilize** cuts the vehicle's engine remotely, for example after a theft. **Mobilize** (called **Open** in the mobile app) restores it.
+
+Before you can use it:
+- The tracker must support engine cut-off, and a **relay** must be installed and wired to the vehicle by your installer.
+- The **Immobilize sensor** must be set up for the vehicle on the web platform (Step 1). Until then, Immobilize is greyed out on the web and doesn't appear in the mobile app.
+
+**Step 1: Set up the Immobilize sensor (web, once per vehicle)**
+1. Open **Settings** and go to the **Devices** tab.
+2. Enter the vehicle's IMEI and click **Search**.
+3. Click **Modify** next to the vehicle.
+
+![Find the vehicle in Settings > Devices](/img/screenshots/web/immobilize-1-devices.png)
+
+4. Open the **Device Sensors** tab.
+5. Turn on **IMMOBILIZE**.
+6. Set **Parameter** to **cutoff** and **Reading Type** to **Direct**.
+7. Click **Submit**.
+
+![Turn on the Immobilize sensor](/img/screenshots/web/immobilize-2-sensor.png)
+
+**Step 2: Immobilize from the web**
+1. Open **Live Tracking** and click **⋯** next to the vehicle in the list.
+2. Click **Immobilize**.
+
+![Immobilize in the vehicle menu](/img/screenshots/web/immobilize-3-menu.png)
+
+3. Click **Immobilize** to stop the engine, or **Mobilize** to restore it. The device's reply is shown below the buttons.
+
+![Immobilize and Mobilize buttons](/img/screenshots/web/immobilize-4-dialog.png)
+
+**Step 2: Immobilize from the mobile app**
+1. Go to the **List** tab and tap the vehicle.
+2. Tap **Immobilize**. You can also open **Live Map** and tap **Immobilize** there.
+3. Tap **Immobilize** to stop the engine, or **Open** to restore it, then tap **Yes** to confirm. The dialog also shows the vehicle's current state.
+
+![Immobilize in the mobile app](/img/screenshots/mobile/immobilize-steps.png)
+
+**Good to know:**
+- The tracker must be online to receive the command, and it can take a little time to run. Don't use it when the mobile signal is poor.
+- For safety, only immobilize when the vehicle is stopped or moving slowly. Some trackers wait until the vehicle slows down before cutting the engine.
+- You can check the current state in **Monitor**, in the **Immobilized** column.
+- **cutoff** is the right parameter for most trackers. If the Immobilized state always shows the opposite of the real state, change **Reading Type** to **Reverse**. For other tracker models, or if you're not sure, contact support.
+
 ### What does the fuel chart show?
 
 The blue line shows fuel level over time, and the dashed line shows cumulative distance. Green markers indicate refueling events, and red markers indicate suspected fuel theft. See the [Fuel Chart Guide](fuel-management/fuel-chart) for details.
