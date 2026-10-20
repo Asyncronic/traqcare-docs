@@ -13,7 +13,7 @@ keywords: [mobile tracking, map tracking, 3D follow, vehicle actions]
 ![Mobile Map View](/img/screenshots/mobile/map.jpg)
 
 - Google Maps with custom status markers for each vehicle
-- Switch between Normal, Satellite, Hybrid, and Traffic views
+- Switch between the standard map and satellite view with road labels, and turn live traffic on or off
 - Search and filter vehicles on the map
 - Tap markers for quick actions
 

@@ -50,7 +50,7 @@ The playback control bar sits at the bottom of the screen:
 | Control | Function |
 |---------|----------|
 | **Play / Pause** | Start or pause the route animation |
-| **Speed Slider** | Adjust playback speed: 1X, 2X, 4X, or 8X |
+| **Speed buttons** | Choose the playback speed: 1×, 4×, 6×, 8×, 10× or 12× |
 | **Timeline Scrubber** | Drag to jump to any point along the route |
 | **Timestamp Display** | Shows the current time position in the playback |
 
@@ -71,7 +71,7 @@ Stop markers only appear for stops that exceed the minimum stop duration thresho
 | Feature | Web | Mobile |
 |---------|-----|--------|
 | Playback controls | Bottom toolbar | Bottom sheet with swipe-up for details |
-| Speed options | 1X, 2X, 4X, 8X | 1X, 2X, 4X, 8X |
+| Speed options | 1×, 4×, 6×, 8×, 10×, 12× | Tap to cycle 1×, 2×, 3×, 4× |
 | Route interaction | Click stop markers, hover for info | Tap stop markers for info sheet |
 | Date picker | Calendar dropdown | Full-screen calendar with date chips |
 

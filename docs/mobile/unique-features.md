@@ -14,7 +14,7 @@ keywords: [3D follow, QR scanner, bluetooth, street view, voice alerts, offline 
 |---------|-------------|
 | **3D Follow Mode** | Camera follows the vehicle with bearing rotation for a realistic driving view |
 | **QR Code Scanner** | Scan device QR codes for quick IMEI entry and pairing |
-| **Bluetooth Connect** | Connect to nearby Bluetooth-enabled tracking devices |
+| **Bluetooth Connect** | Connect to nearby Bluetooth-enabled tracking devices (also on the web, in the profile menu) |
 | **Street View** | View Google Street View at any vehicle's current location |
 | **Voice Alerts** | Audible spoken alerts for important notifications |
 | **Quick Date Chips** | One-tap date selection in playback |

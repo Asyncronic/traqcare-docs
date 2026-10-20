@@ -119,8 +119,10 @@ When Auto-Renew is enabled on a device:
 
 ## Subscription Expiry Alerts
 
-Traqcare sends email notifications before subscriptions expire:
-- **7 days before** expiry — reminder sent to the account admin
-- **On expiry** — device stops reporting
+Traqcare reminds you before a subscription expires, as a push notification that is also saved in the app's notification list:
+- **7 days before** expiry
+- **2 days before** expiry
+
+After it expires, the vehicle shows as expired (the mobile app shows "Device Expired") until it is renewed.
 
 Keep your wallet funded and auto-renew enabled to avoid unexpected tracking gaps.

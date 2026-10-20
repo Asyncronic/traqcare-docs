@@ -21,7 +21,7 @@ Each vehicle is represented by a directional marker on the map. The marker color
 | **Green** | Moving | Vehicle is currently in motion |
 | **Yellow** | Idle | Engine is on but the vehicle is stationary |
 | **Red** | Stopped | Engine is off and vehicle is parked |
-| **Grey** | Offline | No data received recently; device may be powered off or out of coverage |
+| **Blue** | Offline or no data | No data for 2 hours or more, or the device has not reported yet; it may be powered off or out of coverage |
 
 :::tip
 Hover over (web) or tap (mobile) any marker to see a quick summary including vehicle name, speed, and last known address.
@@ -29,12 +29,14 @@ Hover over (web) or tap (mobile) any marker to see a quick summary including veh
 
 ## Map Types
 
-Switch between map types using the layers control in the top-right corner of the map:
+Switch between map types using the map-type control in the top-right corner of the map:
 
-- **Normal** -- Standard road map with street names and points of interest.
-- **Satellite** -- Aerial imagery for real-world context.
-- **Hybrid** -- Satellite imagery overlaid with road labels and names.
-- **Traffic** -- Standard map with live traffic congestion data highlighted.
+- **Road map** -- Standard Google road map with street names and points of interest.
+- **Google satellite** -- Aerial imagery for real-world context.
+- **Google terrain** -- Road map with relief shading.
+- **Google hybrid** -- Satellite imagery with road labels and names.
+
+Road map and Google hybrid can also show **Traffic** (live congestion), **Transit** and **Cycling** layers; click the icons beside them to turn each on or off. The same control has **Show POI** and **Show Geofence** switches. The default map, Google or OpenStreetMap, is set in **Settings > General settings**.
 
 <!-- ![Map Type Selector](/img/screenshots/web/map-type-selector.png) -->
 
@@ -63,5 +65,5 @@ Cluster view activates automatically at lower zoom levels. As you zoom in, clust
 | Full screen | Available via expand button | Map is full screen by default |
 
 :::warning
-If vehicles appear grey or offline, verify that the GPS device is powered on and has cellular connectivity. Prolonged offline status may indicate a hardware or SIM issue.
+If vehicles appear blue (offline), verify that the GPS device is powered on and has cellular connectivity. Prolonged offline status may indicate a hardware or SIM issue.
 :::

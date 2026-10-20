@@ -11,7 +11,7 @@ Answers for both the web platform and the mobile app. Where the steps differ, ea
 
 ### Why is my vehicle showing "Offline"?
 
-The device hasn't sent data recently. Possible causes:
+Traqcare shows a vehicle as **Offline** when no data has reached the platform for **2 hours or more**. Offline vehicles are shown in blue. Possible causes:
 - No cellular signal in the area
 - Device powered off or disconnected
 - SIM card issue (expired, no data balance)
@@ -33,8 +33,8 @@ This depends on your device configuration. Most devices send updates every **10-
 
 ### How do I change the map type?
 
-- **Web:** Use the map layers control in the top-right corner of the map
-- **Mobile:** Tap the map type icon to switch between Normal, Satellite, Hybrid, and Traffic views
+- **Web:** On Live Tracking, open the map-type control at the top right of the map and choose **Road map**, **Google satellite**, **Google terrain** or **Google hybrid**. Road map and Google hybrid can also show **Traffic**, **Transit** and **Cycling** layers. The default map (Google or OpenStreetMap) is set in **Settings > General settings**.
+- **Mobile:** Tap the map-type button to switch between the standard map and satellite view with road labels. A separate button turns live traffic on and off.
 
 ### How do I switch between km and miles?
 

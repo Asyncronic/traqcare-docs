@@ -94,11 +94,12 @@ Understanding the status colors used throughout the platform:
 | Color | Status | Meaning |
 |-------|--------|---------|
 | 🟢 **Green** | Moving | Vehicle is in motion |
-| 🟠 **Orange** | Idle | Engine running, vehicle not moving |
-| 🔴 **Red** | Stopped | Engine off, vehicle parked |
-| ⚪ **Grey** | Offline | No data received from device |
-| 🔵 **Blue** | Parked | In parking mode (long-duration stop) |
+| 🟡 **Yellow** | Idle | Engine running, vehicle not moving |
+| 🔴 **Red** | Stopped | Engine off |
+| 🔵 **Blue** | Offline or no data | No data for 2 hours or more, or the device has not reported yet |
+
+Parking mode is a switch, not a colour: see [What does the Parking switch do?](./faq.md#what-does-the-parking-switch-do).
 
 ## Login Logs
-View your login history at **Settings > Login Logs**:
+View your login history from the **profile menu** (your name, top right) > **Login Logs**:
 ![Login Logs](/img/screenshots/web/login-logs.png)
