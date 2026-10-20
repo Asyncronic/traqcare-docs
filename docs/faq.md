@@ -1,7 +1,7 @@
 ---
 id: faq
 title: Frequently Asked Questions
-description: Common questions about the Traqcare web platform and mobile app — GPS accuracy, offline devices, odometer, and more.
+description: "Common questions about the Traqcare web platform and mobile app — GPS accuracy, offline devices, odometer, and more."
 keywords: [FAQ, frequently asked questions, troubleshooting, help, GPS accuracy, odometer, mobile app]
 ---
 
@@ -11,7 +11,7 @@ Answers for both the web platform and the mobile app. Where the steps differ, ea
 
 ### Why is my vehicle showing "Offline"?
 
-Traqcare shows a vehicle as **Offline** when no data has reached the platform for **2 hours or more**. Offline vehicles are shown in blue. Possible causes:
+Traqcare shows a vehicle as **Offline** when no data has reached the platform for a while: **2 hours or more** on the web, **more than 60 minutes** in the mobile app. Offline vehicles are shown in blue. Possible causes:
 - No cellular signal in the area
 - Device powered off or disconnected
 - SIM card issue (expired, no data balance)

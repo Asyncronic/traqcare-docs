@@ -1,7 +1,7 @@
 ---
 id: map-view
 title: Map View
-description: How to use the interactive live tracking map with vehicle markers, map types, search, and cluster view.
+description: "How to use the interactive live tracking map with vehicle markers, map types, search, and cluster view."
 sidebar_position: 1
 keywords: [map view, interactive map, vehicle markers, satellite, traffic, cluster, GPS map]
 ---
@@ -21,7 +21,7 @@ Each vehicle is represented by a directional marker on the map. The marker color
 | **Green** | Moving | Vehicle is currently in motion |
 | **Yellow** | Idle | Engine is on but the vehicle is stationary |
 | **Red** | Stopped | Engine is off and vehicle is parked |
-| **Blue** | Offline or no data | No data for 2 hours or more, or the device has not reported yet; it may be powered off or out of coverage |
+| **Blue** | Offline or no data | No data for 2 hours or more (the mobile app uses more than 60 minutes), or the device has not reported yet; it may be powered off or out of coverage |
 
 :::tip
 Hover over (web) or tap (mobile) any marker to see a quick summary including vehicle name, speed, and last known address.

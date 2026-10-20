@@ -1,7 +1,7 @@
 ---
 id: getting-started
 title: Getting Started
-description: Learn how to log in and navigate the Traqcare GPS Tracking platform on web and mobile.
+description: "Learn how to log in and navigate the Traqcare GPS Tracking platform on web and mobile."
 sidebar_position: 1
 keywords: [login, dashboard, navigation, getting started, user roles]
 ---
@@ -96,7 +96,7 @@ Understanding the status colors used throughout the platform:
 | 🟢 **Green** | Moving | Vehicle is in motion |
 | 🟡 **Yellow** | Idle | Engine running, vehicle not moving |
 | 🔴 **Red** | Stopped | Engine off |
-| 🔵 **Blue** | Offline or no data | No data for 2 hours or more, or the device has not reported yet |
+| 🔵 **Blue** | Offline or no data | No data for 2 hours or more (mobile app: more than 60 minutes), or the device has not reported yet |
 
 Parking mode is a switch, not a colour: see [What does the Parking switch do?](./faq.md#what-does-the-parking-switch-do).
 
