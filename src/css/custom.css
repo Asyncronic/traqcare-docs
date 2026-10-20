@@ -32,29 +32,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* ─── Announcement Bar ─── */
-div[class*='announcementBar'] {
-  background-color: #1565c0;
-  color: #ffffff;
-  font-size: 0.9rem;
-  font-weight: 500;
-  padding: 0.4rem 0;
-}
-
-div[class*='announcementBar'] a {
-  color: #ffffff;
-  text-decoration: underline;
-}
-
-[data-theme='dark'] div[class*='announcementBar'] {
-  background-color: #0e4786;
-}
-
 /* ─── Navbar ─── */
-.navbar {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-}
-
 .navbar__link--app {
   background-color: #1565c0;
   color: #ffffff !important;
@@ -160,22 +138,7 @@ div[class*='announcementBar'] a {
   font-size: 0.9rem;
 }
 
-/* ─── Content Typography ─── */
-.markdown h1:first-child {
-  font-size: 2rem;
-}
-
-.markdown h2 {
-  margin-top: 2rem;
-}
-
-.markdown h3 {
-  margin-top: 1.5rem;
-}
-
-article table {
-  font-size: 0.925rem;
-}
+/* Content typography, tables and steps: src/css/docs-ui.css. */
 
 /* ─── Admonition Spacing ─── */
 .theme-admonition {

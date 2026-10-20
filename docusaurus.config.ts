@@ -47,6 +47,7 @@ const config: Config = {
   ],
 
   plugins: [
+    'docusaurus-plugin-image-zoom',
     [
       require.resolve('./plugins/seo-postbuild.js'),
       {
@@ -83,6 +84,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          // Step lists that resume after a screenshot keep their numbers (see src/css/docs-ui.css).
+          rehypePlugins: [require('./plugins/rehype-ol-start.js')],
           showLastUpdateTime: true,
           showLastUpdateAuthor: false,
           exclude: ['internal/**'],
@@ -100,7 +103,7 @@ const config: Config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: ['./src/css/custom.css', './src/css/docs-ui.css'],
         },
         sitemap: {
           changefreq: 'weekly' as const,
@@ -310,12 +313,11 @@ const config: Config = {
       defaultMode: 'light',
       respectPrefersColorScheme: true,
     },
-    announcementBar: {
-      id: 'skywonder_bar',
-      content: 'New: Fuel Chart improvements & Playback enhancements are live! <a href="/blog/">Read more</a>',
-      backgroundColor: '#1565c0',
-      textColor: '#fff',
-      isCloseable: true,
+    // Screenshots open full size on click.
+    zoom: {
+      selector: '.theme-doc-markdown img',
+      background: {light: 'rgb(255, 255, 255)', dark: 'rgb(18, 23, 31)'},
+      config: {margin: 24},
     },
     navbar: {
       title: 'Traqcare Docs',
