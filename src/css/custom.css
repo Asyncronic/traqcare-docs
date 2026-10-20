@@ -21,7 +21,7 @@
 }
 
 /* Dark mode palette */
-[data-theme='dark'] {
+html[data-theme='dark'] { /* html: survives the minifier's same-selector merge */
   --ifm-color-primary: #5b9bd5;
   --ifm-color-primary-dark: #438dcf;
   --ifm-color-primary-darker: #3886cc;
