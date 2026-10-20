@@ -281,14 +281,7 @@ const config: Config = {
         type: 'text/plain',
       },
     },
-    // ── Canonical and alternate links ──
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'canonical',
-        href: 'https://docs.traqcare.com',
-      },
-    },
+    // No site-wide canonical here: Docusaurus writes the right one on every page, and a fixed one pointed every page at the home page.
   ],
 
   themeConfig: {
@@ -319,7 +312,7 @@ const config: Config = {
     },
     announcementBar: {
       id: 'skywonder_bar',
-      content: 'New: Fuel Chart improvements & Playback enhancements are live! <a href="/blog">Read more</a>',
+      content: 'New: Fuel Chart improvements & Playback enhancements are live! <a href="/blog/">Read more</a>',
       backgroundColor: '#1565c0',
       textColor: '#fff',
       isCloseable: true,
@@ -353,7 +346,7 @@ const config: Config = {
           position: 'left',
           label: 'FAQ',
         },
-        {to: '/blog', label: 'Updates', position: 'left'},
+        {to: '/blog/', label: 'Updates', position: 'left'},
         {
           type: 'search',
           position: 'right',
