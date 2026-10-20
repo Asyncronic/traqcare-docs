@@ -151,7 +151,7 @@ Check these, in order:
 
 ### What does the fuel chart show?
 
-The blue line shows fuel level over time, and the dashed line shows cumulative distance. Green markers indicate refueling events, and red markers indicate suspected fuel theft. See the [Fuel Chart Guide](fuel-management/fuel-chart) for details.
+The blue line shows fuel level over time, and the dashed line shows cumulative distance. Green markers indicate refueling events, and red markers indicate suspected fuel theft. See the [Fuel Chart Guide](./fuel-management/fuel-chart.md) for details.
 
 ### How do I share a vehicle's location?
 

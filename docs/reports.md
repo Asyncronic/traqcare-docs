@@ -42,18 +42,18 @@ Use Excel export when you need to perform additional calculations or create cust
 
 | Report | Description | Details |
 |--------|-------------|---------|
-| [Trip Report](./reports/trip-report) | Every trip with start/end times, distance, and speed | Per-trip breakdown |
-| [Daily Travel](./reports/daily-travel) | Day-by-day summary of travel activity | Daily aggregates |
-| [Travel Summary](./reports/travel-summary) | Aggregated metrics over a period for fleet comparison | Period totals and averages |
-| [Fuel Summary](./reports/fuel-summary) | Fuel consumption, refueling, and drain events | Daily fuel data with charts |
-| [Daily Distance](./reports/daily-distance) | Distance traveled per day | Simple mileage tracking |
-| [Stoppage Report](./reports/stoppage-report) | Every stop with duration and address | Stop-level detail |
-| [Idle Report](./reports/idle-report) | Engine idle events with time and location | Idle event log |
-| [Alert Report](./reports/alert-report) | Historical log of triggered alerts | Alert event history |
-| [Speed & Distance](./reports/speed-distance) | Speed statistics and overspeed events | Speed analysis |
-| [Geofence Report](./reports/geofence-report) | Geofence entry/exit logs with dwell times | Zone activity |
-| [Custom Report](./reports/custom-report) | Build your own report by selecting specific data fields and saving templates | Tailored analytics |
-| [Additional Reports](./reports/additional-reports) | Offline, Alert Count, Time Wise, Health, Voltage, Battery (Web only) | Specialized reports |
+| [Trip Report](./reports/trip-report.md) | Every trip with start/end times, distance, and speed | Per-trip breakdown |
+| [Daily Travel](./reports/daily-travel.md) | Day-by-day summary of travel activity | Daily aggregates |
+| [Travel Summary](./reports/travel-summary.md) | Aggregated metrics over a period for fleet comparison | Period totals and averages |
+| [Fuel Summary](./reports/fuel-summary.md) | Fuel consumption, refueling, and drain events | Daily fuel data with charts |
+| [Daily Distance](./reports/daily-distance.md) | Distance traveled per day | Simple mileage tracking |
+| [Stoppage Report](./reports/stoppage-report.md) | Every stop with duration and address | Stop-level detail |
+| [Idle Report](./reports/idle-report.md) | Engine idle events with time and location | Idle event log |
+| [Alert Report](./reports/alert-report.md) | Historical log of triggered alerts | Alert event history |
+| [Speed & Distance](./reports/speed-distance.md) | Speed statistics and overspeed events | Speed analysis |
+| [Geofence Report](./reports/geofence-report.md) | Geofence entry/exit logs with dwell times | Zone activity |
+| [Custom Report](./reports/custom-report.md) | Build your own report by selecting specific data fields and saving templates | Tailored analytics |
+| [Additional Reports](./reports/additional-reports.md) | Offline, Alert Count, Time Wise, Health, Voltage, Battery (Web only) | Specialized reports |
 
 :::info
 Report availability may vary based on your subscription plan and the sensors installed on your GPS devices. Fuel reports, for example, require a fuel sensor.

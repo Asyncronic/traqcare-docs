@@ -3,7 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Traqcare Documentation — GPS Tracking & Fleet Management Platform',
+  // Appended to every page title ("Playback | Traqcare Docs"), so keep it short.
+  title: 'Traqcare Docs',
   tagline: 'Complete user guide for the Traqcare GPS tracking platform by Skywonder GPS. Real-time vehicle tracking, fleet reports, fuel monitoring, geofencing, alerts, and mobile app documentation.',
   favicon: 'img/favicon-96x96.png',
 
@@ -13,6 +14,8 @@ const config: Config = {
 
   url: 'https://docs.traqcare.com',
   baseUrl: '/',
+  // Pages are served at /docs/x/; links, canonicals and the sitemap must use the same form (no redirect hop).
+  trailingSlash: true,
 
   organizationName: 'traqcare',
   projectName: 'traqcare-docs',
@@ -43,7 +46,36 @@ const config: Config = {
     ],
   ],
 
-  plugins: [],
+  plugins: [
+    [
+      require.resolve('./plugins/seo-postbuild.js'),
+      {
+        siteName: 'Traqcare Docs',
+        publisher: {'@type': 'Organization', name: 'Skywonder', url: 'https://skywondergps.com'},
+        faqRoutes: ['/docs/faq/'],
+        sectionLabels: {
+          'getting-started': 'Getting started',
+          'live-tracking': 'Live tracking',
+          playback: 'Playback',
+          'routes-and-trips': 'Routes and trips',
+          alerts: 'Alerts',
+          geofences: 'Geofences',
+          'points-of-interest': 'Points of interest',
+          reports: 'Reports',
+          'fuel-management': 'Fuel management',
+          'video-surveillance': 'Video surveillance',
+          'device-management': 'Device management',
+          'maintenance-and-expenses': 'Maintenance and expenses',
+          'user-management': 'User management',
+          reseller: 'Reseller',
+          settings: 'Settings',
+          'support-and-tickets': 'Support and tickets',
+          mobile: 'Mobile app',
+          faq: 'FAQ',
+        },
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -73,6 +105,8 @@ const config: Config = {
         sitemap: {
           changefreq: 'weekly' as const,
           priority: 0.5,
+          // Tools and blog listing pages, not content.
+          ignorePatterns: ['/search/**', '/blog/tags/**', '/blog/archive/**', '/blog/authors/**', '/blog/page/**'],
         },
       } satisfies Preset.Options,
     ],

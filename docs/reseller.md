@@ -12,6 +12,6 @@ Reseller-specific tools for managing multiple client accounts.
 
 ![Reseller Management](/img/screenshots/web/reseller-management.png)
 
-- [**Client Management**](reseller/client-management) — Create and manage sub-clients
-- [**Coins & Wallet**](reseller/coins-and-wallet) — Manage subscription credits
-- [**Subscriptions**](reseller/subscriptions) — Activate and renew device subscriptions
+- [**Client Management**](./reseller/client-management.md) — Create and manage sub-clients
+- [**Coins & Wallet**](./reseller/coins-and-wallet.md) — Manage subscription credits
+- [**Subscriptions**](./reseller/subscriptions.md) — Activate and renew device subscriptions

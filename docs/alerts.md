@@ -10,7 +10,7 @@ keywords: [alerts, notifications, overspeed, geofence alert]
 
 Get notified instantly when important events occur — overspeed, geofence breaches, fuel theft, device offline, and more.
 
-- [**Alert Types**](alerts/alert-types) — All available alert types explained
-- [**Creating Alerts**](alerts/creating-alerts) — Step-by-step setup guide
-- [**Alert History**](alerts/alert-history) — View past triggered alerts
-- [**Notification Settings**](alerts/notification-settings) — Configure how you receive alerts
+- [**Alert Types**](./alerts/alert-types.md) — All available alert types explained
+- [**Creating Alerts**](./alerts/creating-alerts.md) — Step-by-step setup guide
+- [**Alert History**](./alerts/alert-history.md) — View past triggered alerts
+- [**Notification Settings**](./alerts/notification-settings.md) — Configure how you receive alerts

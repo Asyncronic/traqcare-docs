@@ -72,13 +72,13 @@ Traqcare is a product of Skywonder GPS (https://skywondergps.com), specializing 
 
 ## Documentation Sections
 
-- [Getting Started](https://docs.traqcare.com/docs/getting-started)
-- [Live Tracking](https://docs.traqcare.com/docs/live-tracking)
-- [Playback & History](https://docs.traqcare.com/docs/playback)
-- [Reports](https://docs.traqcare.com/docs/reports)
-- [Alerts & Notifications](https://docs.traqcare.com/docs/alerts)
-- [Geofences](https://docs.traqcare.com/docs/geofences)
-- [Fuel Management](https://docs.traqcare.com/docs/fuel-management)
-- [Device Management](https://docs.traqcare.com/docs/device-management)
-- [Mobile App](https://docs.traqcare.com/docs/mobile/overview)
-- [FAQ](https://docs.traqcare.com/docs/faq)
+- [Getting Started](https://docs.traqcare.com/docs/getting-started/)
+- [Live Tracking](https://docs.traqcare.com/docs/live-tracking/)
+- [Playback & History](https://docs.traqcare.com/docs/playback/)
+- [Reports](https://docs.traqcare.com/docs/reports/)
+- [Alerts & Notifications](https://docs.traqcare.com/docs/alerts/)
+- [Geofences](https://docs.traqcare.com/docs/geofences/)
+- [Fuel Management](https://docs.traqcare.com/docs/fuel-management/)
+- [Device Management](https://docs.traqcare.com/docs/device-management/)
+- [Mobile App](https://docs.traqcare.com/docs/mobile/overview/)
+- [FAQ](https://docs.traqcare.com/docs/faq/)

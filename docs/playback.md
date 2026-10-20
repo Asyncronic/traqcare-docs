@@ -22,8 +22,8 @@ The Playback module lets you review where your vehicles have been. Replay histor
 
 | Section | Description |
 |---------|-------------|
-| [Route Playback](./playback/route-playback) | Animated route replay with timeline controls and stop markers |
-| [Trip Statistics](./playback/trip-statistics) | Distance, duration, speed metrics, and parking event details |
+| [Route Playback](./playback/route-playback.md) | Animated route replay with timeline controls and stop markers |
+| [Trip Statistics](./playback/trip-statistics.md) | Distance, duration, speed metrics, and parking event details |
 
 :::info
 Playback data is available for the retention period configured on your account. Contact your administrator if you need access to older historical data.

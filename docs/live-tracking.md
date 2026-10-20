@@ -29,11 +29,11 @@ The Live Tracking module is the core of Traqcare, giving you a real-time view of
 
 | Section | Description |
 |---------|-------------|
-| [Map View](./live-tracking/map-view) | Interactive map with vehicle markers, clustering, and multiple map types |
-| [Object List](./live-tracking/object-list) | Filterable list of all vehicles with status, speed, and address |
-| [Single Object Tracking](./live-tracking/single-object) | Focused view of one vehicle with full details and quick actions |
-| [Share Location](./live-tracking/share-location) | Generate shareable live location links with auto-expiry |
-| [Search Nearby](./live-tracking/search-nearby) | Find vehicles and POIs within a radius of any vehicle, POI, or address |
+| [Map View](./live-tracking/map-view.md) | Interactive map with vehicle markers, clustering, and multiple map types |
+| [Object List](./live-tracking/object-list.md) | Filterable list of all vehicles with status, speed, and address |
+| [Single Object Tracking](./live-tracking/single-object.md) | Focused view of one vehicle with full details and quick actions |
+| [Share Location](./live-tracking/share-location.md) | Generate shareable live location links with auto-expiry |
+| [Search Nearby](./live-tracking/search-nearby.md) | Find vehicles and POIs within a radius of any vehicle, POI, or address |
 
 :::info
 Live Tracking data updates automatically every few seconds. No manual refresh is needed on either web or mobile.

@@ -277,8 +277,8 @@ function CTASection(): ReactNode {
 export default function Home(): ReactNode {
   return (
     <Layout
-      title="Traqcare Documentation — GPS Tracking & Fleet Management by Skywonder GPS"
-      description="Official documentation for Traqcare GPS Tracking & Fleet Management Platform by Skywonder GPS. Real-time vehicle tracking, 16+ fleet reports, fuel monitoring, geofencing, alerts, driver management, camera surveillance, and mobile app for iOS & Android. Track vehicles at track.traqcare.com.">
+      title="GPS Tracking & Fleet Management User Guide"
+      description="User guide for the Traqcare GPS tracking and fleet platform by Skywonder: live tracking, reports, fuel, geofences, alerts, video and the mobile apps.">
       <Head>
         {/* AEO: FAQPage structured data */}
         <script type="application/ld+json">
